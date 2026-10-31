@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+seqeval
+
+fastapi
+uvicorn
+pydantic
+
+streamlit
+requests
+python-multipart
